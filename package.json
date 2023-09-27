@@ -18,10 +18,7 @@
     "@rarible/estimate-middleware": "^0.10.0-alpha.10",
     "@rarible/types": "^0.10.0-alpha.11",
     "@truffle/hdwallet-provider": "^2.1.15",
-<<<<<<< HEAD
     "azure-storage": "^2.10.7",
-=======
->>>>>>> 9ffd07068a96abb5c4d2965c8ff5307d9a16d07c
     "cors": "^2.8.5",
     "dotenv": "^16.3.1",
     "ethers": "^6.7.1",
